@@ -10,7 +10,7 @@
 
 
 
-## **1. Idea **
+## 1. Idea 
 
 Railway stations are chaotic by design. People, luggage, announcements, time pressure, and zero clarity. The idea is to build a **Smart Indoor Navigation & Assistance System** for railway stations that works even when GPS doesn’t, because concrete and metal hate satellites.
 
@@ -27,12 +27,12 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 
 
 
-## **2. Proposed Solution / Architecture (Explained)**
+## 2. Proposed Solution / Architecture (Explained)**
 
 <img width="1192" height="664" alt="image" src="https://github.com/user-attachments/assets/4cd6d2c0-3497-41af-a6a9-8c0caf0a493f" />
 
 
-### **High-Level Flow**
+### High-Level Flow
 
 1. **User Entry Point**
 
