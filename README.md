@@ -1,8 +1,4 @@
-Fine. You want something **SIH-ready, unique, and not the same recycled “Google Maps + React” nonsense** that half the teams submit. Let’s do this cleanly and properly, workshop-style, without embarrassing copy-paste vibes.
 
-I’ll structure it exactly how evaluators expect it.
-
----
 
 # **Smart India Hackathon (SIH) – Workshop Submission**
 
@@ -12,9 +8,9 @@ I’ll structure it exactly how evaluators expect it.
 **Problem Creator’s Organization:**
 **Ministry of Railways, Government of India**
 
----
 
-## **1. Idea (Unique Concept)**
+
+## **1. Idea **
 
 Railway stations are chaotic by design. People, luggage, announcements, time pressure, and zero clarity. The idea is to build a **Smart Indoor Navigation & Assistance System** for railway stations that works even when GPS doesn’t, because concrete and metal hate satellites.
 
@@ -29,9 +25,12 @@ Unlike traditional map apps, RailNav+ understands:
 
 The system works across **mobile apps, station kiosks, and voice-based interfaces**, ensuring every passenger can find what they need without playing hide-and-seek with platforms.
 
----
+
 
 ## **2. Proposed Solution / Architecture (Explained)**
+
+<img width="1192" height="664" alt="image" src="https://github.com/user-attachments/assets/4cd6d2c0-3497-41af-a6a9-8c0caf0a493f" />
+
 
 ### **High-Level Flow**
 
@@ -69,9 +68,11 @@ The system works across **mobile apps, station kiosks, and voice-based interface
    * Bottleneck detection
    * Facility usage trends
 
----
+
 
 ## **3. Use Cases**
+<img width="391" height="637" alt="image" src="https://github.com/user-attachments/assets/252e1fae-90b6-4544-aff1-aa7003561d72" />
+
 
 ### **Passenger Use Cases**
 
@@ -94,9 +95,8 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 * Elderly users receive simplified navigation paths
 * Tourists access multilingual support
 
----
 
-## **4. Technology Stack (Not the boring default)**
+## **4. Technology Stack **
 
 ### **Frontend**
 
@@ -134,7 +134,7 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 * Docker (for deployment)
 * Figma (UI/UX)
 
----
+
 
 ## **5. Dependencies & Timeline**
 
@@ -151,7 +151,6 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 
 **Total Estimated Time:** ~40 days
 
----
 
 ## **6. Budget Estimation**
 
@@ -164,7 +163,7 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 
 **Total Budget:** **₹50,000**
 
----
+
 
 ## **7. Why This Solution Is Different**
 
@@ -176,13 +175,4 @@ The system works across **mobile apps, station kiosks, and voice-based interface
 
 In short, fewer lost passengers, fewer missed trains, and fewer angry announcements over the PA system.
 
----
 
-If you want, I can:
-
-* Convert this into **SIH PPT slides**
-* Draw a **clean architecture diagram**
-* Write a **2-minute pitch script**
-* Simplify it for **handwritten exam submission**
-
-Just don’t ask me to “make it shorter” after this.
